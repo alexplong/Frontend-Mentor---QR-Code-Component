@@ -67,12 +67,14 @@ body {
 
 .Card > .Card-maintext {
   margin: 0 0 16px 0;
-  font-weight: 600;
+  font-weight: 700;
+  font-size: 23px;
 }
 
 .Card > .Card-subtext {
   color: hsl(var(--clr-gray-blue));
-  font-weight: 300;
+  font-weight: 200;
+  font-size: 15px;
 }
 
 .qr_code {
